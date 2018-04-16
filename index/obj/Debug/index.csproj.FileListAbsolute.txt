@@ -1,0 +1,9 @@
+c:\users\alexander\documents\visual studio 2015\Projects\index\index\bin\Debug\index.exe.config
+c:\users\alexander\documents\visual studio 2015\Projects\index\index\bin\Debug\index.exe
+c:\users\alexander\documents\visual studio 2015\Projects\index\index\bin\Debug\index.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\index\index\obj\Debug\index.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\index\index\obj\Debug\index.Main.resources
+c:\users\alexander\documents\visual studio 2015\Projects\index\index\obj\Debug\index.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2015\Projects\index\index\obj\Debug\index.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2015\Projects\index\index\obj\Debug\index.exe
+c:\users\alexander\documents\visual studio 2015\Projects\index\index\obj\Debug\index.pdb
